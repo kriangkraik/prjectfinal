@@ -1,13 +1,12 @@
-var express = require("express");
-var router = express.Router();
-
+const express = require("express");
+const router = express.Router();
 const fs = require("fs");
 const path = require("path");
 
-// Route Download File PDF หนังสือโอนมอบที่ดิน.pdf
+/* Route Download File PDF */
 router.get("/", function (req, res) {
   var filename = req.query.filename;
-  
+
   try {
     var file = fs.readFileSync(
       path.resolve(__dirname, "../export_filepdf/" + filename),
@@ -104,6 +103,15 @@ router.post("/", function (req, res) {
         res.status(200).send({
           statuscode: 200,
           message: "Ok create pdf file successfully!",
+          urlfile:
+            "http://localhost:3000/pdfautofill?filename=" +
+            "File_" +
+            now.getFullYear() +
+            "-" +
+            now.getMonth() +
+            "-" +
+            now.getDate() +
+            ".pdf",
         });
       }
     }
