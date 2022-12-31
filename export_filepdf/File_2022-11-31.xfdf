@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+  <f href="./templatepdf/หนังสือมอบอำนาจที่ดิน.pdf"/>
+  <fields>
+    <field name="Text1">
+      <value>565 IV546544</value>
+    </field>
+    <field name="Text2">
+      <value>๒๓/๕๖๗</value>
+    </field>
+    <field name="Text3">
+      <value>บมจ. คุ้มภัย</value>
+    </field>
+    <field name="Text4">
+      <value>๕๖๗/๗๘</value>
+    </field>
+    <field name="Text5">
+      <value>บางจาก</value>
+    </field>
+    <field name="Text6">
+      <value>๕๖๗/๓๔๔</value>
+    </field>
+    <field name="Text7">
+      <value>กรุงเทพมหานคร</value>
+    </field>
+    <field name="Text8">
+      <value>๒๓๓/๓๓</value>
+    </field>
+    <field name="Text9">
+      <value>บมจ. คุ้มภัย</value>
+    </field>
+    <field name="Text10">
+      <value>13</value>
+    </field>
+    <field name="Text11">
+      <value>ธันวาคม</value>
+    </field>
+    <field name="Text12">
+      <value>2565</value>
+    </field>
+    <field name="Text13">
+      <value>บ. ฟหกฟหกฟหกฟหกฟห</value>
+    </field>
+    <field name="Text14">
+      <value>1</value>
+    </field>
+    <field name="Text15">
+      <value>1</value>
+    </field>
+    <field name="Text16">
+      <value>0</value>
+    </field>
+    <field name="Text17">
+      <value>1</value>
+    </field>
+    <field name="Text18">
+      <value>5</value>
+    </field>
+    <field name="Text19">
+      <value>0</value>
+    </field>
+    <field name="Text20">
+      <value>0</value>
+    </field>
+    <field name="Text21">
+      <value>6</value>
+    </field>
+    <field name="Text22">
+      <value>8</value>
+    </field>
+    <field name="Text23">
+      <value>1</value>
+    </field>
+    <field name="Text24">
+      <value>8</value>
+    </field>
+    <field name="Text25">
+      <value>1</value>
+    </field>
+    <field name="Text26">
+      <value>1</value>
+    </field>
+  </fields>
+</xfdf>
